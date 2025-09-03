@@ -1,6 +1,6 @@
 # Hi there, I'm Bijay 👋  
 
-💻 Computer Science Engineering Student
+💻 Computer Science Engineering Student.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bijay-adhikari-656122327/) 
 
