@@ -2,7 +2,8 @@
 
 💻 Computer Science Engineering Student
 
-🔗 [LinkedIn](https://www.linkedin.com/in/bijay-adhikari-656122327/) • [Portfolio](https://bijayadhikari28.com.np/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bijay-adhikari-656122327/) 
+🔗 [Portfolio](https://bijayadhikari28.com.np/)  
 
 ---
 
