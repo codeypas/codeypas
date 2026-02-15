@@ -16,7 +16,7 @@
 - Continuous Learner  
 - Technology Explorer  
 
-Outside of coding, I enjoy connecting with tech communities, learning new technologies, and sharing knowledge whenever I can.
+Outside coding, I enjoy connecting with tech communities, learning new technologies, and sharing knowledge whenever I can.
 
 ---
 
