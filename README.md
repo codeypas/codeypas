@@ -9,16 +9,36 @@
 ---
 
 ### 🚀 About Me  
-I’m passionate about **Software and Web Development**, with interests in **Cybersecurity, Blockchain, AI and ML**.  
-I enjoy solving real-world problems, building innovative solutions, and exploring modern technologies.  
 
-Beyond coding, I love collaborating with communities, sharing knowledge, and working on impactful projects.  
+- Software Developer  
+- Full Stack Developer  
+- Tech Enthusiast  
+- Continuous Learner  
+- Technology Explorer  
+
+Outside of coding, I enjoy connecting with tech communities, learning new technologies, and sharing knowledge whenever I can.
 
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** C, C++, Python, JavaScript, SQL  
-- **Web:** ReactJS, Node.js, Express.js, MongoDB, MySQL  
-- **Other:** Git, Firebase, Google Cloud  
+
+**Languages:**  
+C++, Python, JavaScript, SQL  
+
+**Frontend:**  
+React.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+**Backend:**  
+Node.js, Express.js, REST APIs, JWT Authentication  
+
+**Database:**  
+MongoDB, MySQL, PostgreSQL  
+
+**Cloud & DevOps:**  
+Google Cloud, Firebase  
+
+**Tools & Practices:**  
+Git, GitHub, Postman, VS Code  
 
 ---
+
